@@ -1,3 +1,3 @@
-# Assignment for ABC Private Limited
+# Assignment
 
 This project is a submission assignment.
